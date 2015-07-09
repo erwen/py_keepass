@@ -1,0 +1,6 @@
+erwen
+srv-erwen-db1	5.5.5.5
+srv-erwen-web1	1.1.1.1
+srv-erwen-web2	2.2.2.2
+srv-erwen-web3	3.3.3.3
+srv-erwen-web4	4.4.4.4
